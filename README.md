@@ -39,6 +39,6 @@
 
 ## Contact
 * Ambily M [@mambily]
-* Subhash G []
+* Subhash G [@SubhashG05]
 
 Feel free to contact us!
