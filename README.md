@@ -1,4 +1,8 @@
 # Lending Club Case Study
+<div align="center">
+    <img src="images/LC_Image.jpg" width="600px"</img> 
+</div>
+
 > A consumer finance company specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. 
 > 
 > Two types of risks are associated with the bank’s decision:
