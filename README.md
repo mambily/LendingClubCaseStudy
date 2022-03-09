@@ -33,7 +33,7 @@
     - Highly experienced borrowers are given loan with higher amount, hence are prone to default.
     - Higher loan amount sanctioned for borrowers with Mortgaged houses or houses in Other category are prone to default, compared to the borrowers with own house or rented house.
     - Higher loan amount given for small business purpose are less likely to repay loan.
-    - Higher loan amount given to Income Grade 'F' borrowers are prone to default.
+    - Higher loan amount given to Income Grades 'F' and 'G' borrowers are prone to default.
 - Higher Loan Tenure :
     - Higher interest rate for long tenure loan have more chances to default.
     - Higher loan amount for long tenure loan have more chances to default.
